@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding left" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5debc62e-556a-4b85-90c0-1156feac7b48" alt="coding right" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5debc62e-556a-4b85-90c0-1156feac7b48.gif" alt="coding right" width="45%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Madhan M</h1>
