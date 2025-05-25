@@ -1,10 +1,8 @@
 <!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="50%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9648bb63-ae26-4cdb-98dc-ae3a176590a3" alt="coding" width="50%" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding left" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5debc62e-556a-4b85-90c0-1156feac7b48" alt="coding right" width="45%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Madhan M</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
