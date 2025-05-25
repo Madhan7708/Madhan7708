@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="50%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0519a1fa-5179-4fa5-bfc5-25d8b76406d5" alt="coding" width="50%" />
+  <img src="https://github.com/user-attachments/assets/9648bb63-ae26-4cdb-98dc-ae3a176590a3" alt="coding" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhan M</h1>
